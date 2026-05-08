@@ -1,0 +1,765 @@
+[
+  {
+    "id": 11101,
+    "name": "无锋剑",
+    "description": "少年人的梦想、踏上旅途的兴奋——如果这两种珍贵的品质还不够锋利，那就用勇气补足吧。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 1
+  },
+  {
+    "id": 11201,
+    "name": "银剑",
+    "description": "能退魔的银剑。大家都知道，其实用料是银合金而不是纯银。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 2
+  },
+  {
+    "id": 11301,
+    "name": "冷刃",
+    "description": "多层锻打的精钢铸就的可靠兵器，曾见证旧主诸多冒险奇谭。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 3
+  },
+  {
+    "id": 11302,
+    "name": "黎明神剑",
+    "description": "一把曾经耀若朝阳的宝剑，掌握它的人会获得「自我感觉良好」的力量加持。剑身上的发光材料已经褪去。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 3
+  },
+  {
+    "id": 11303,
+    "name": "旅行剑",
+    "description": "趁手的钢剑，剑柄里藏着剪子、放大镜、火绒等方便旅行的小物件。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 3
+  },
+  {
+    "id": 11304,
+    "name": "暗铁剑",
+    "description": "其实就是稍微有些黑的铁剑。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 3
+  },
+  {
+    "id": 11305,
+    "name": "吃虎鱼刀",
+    "description": "用来剖鱼的锋利铁刀，刀身狭长，非常锋利。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 3
+  },
+  {
+    "id": 11306,
+    "name": "飞天御剑",
+    "description": "可靠的钢剑，传说著名的「御剑公子」曾试图借助它飞天。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 3
+  },
+  {
+    "id": 11401,
+    "name": "西风剑",
+    "description": "西风骑士团的制式长剑。轻快锐利之余，也能轻易导出元素力量。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11402,
+    "name": "笛剑",
+    "description": "细剑的锈迹下透露出原本华丽的装饰，挥舞时轻若无物。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11403,
+    "name": "祭礼剑",
+    "description": "在漫长岁月中石化的道具剑，上面的仪式性装饰依然清晰可见。拥有受时间之风冲刷的祝福力量。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11404,
+    "name": "宗室长剑",
+    "description": "曾支配蒙德的旧日贵族的佩剑。做工精良，装饰与雕花彰显着挥舞者的身份。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11405,
+    "name": "匣里龙吟",
+    "description": "雕饰浮华的利刃，却丝毫不损它的柔韧与锋锐。破空之声有如龙吟。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11406,
+    "name": "试作斩岩",
+    "description": "黑岩厂中秘藏的古老长剑。可挥砍断岩而刃不卷。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11407,
+    "name": "铁蜂刺",
+    "description": "外形流利的细长刺剑，是从异国经由商路流落到璃月的奇异兵器。轻快无比，剑芒极其锐利。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11408,
+    "name": "黑岩长剑",
+    "description": "黑岩锻造而成的长剑。玄色的剑身隐隐流露血光。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11409,
+    "name": "黑剑",
+    "description": "渴求着纷争与砍杀的漆黑长剑，据说会让人沉醉在浴血厮杀的亢奋中。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11410,
+    "name": "暗巷闪光",
+    "description": "有着黑夜颜色的笔直长剑，曾属于穿行于暗巷的盗贼。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11412,
+    "name": "降临之剑",
+    "description": "造型独特的剑。看起来并不属于这个世界。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11413,
+    "name": "腐殖之剑",
+    "description": "希冀着生命的诡谲直剑，附有连龙也能侵蚀的腐殖之毒。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 4
+  },
+  {
+    "id": 11501,
+    "name": "风鹰剑",
+    "description": "西风骑士团的灵魂。历经千年仍在呼唤你卷起正义之风，祓除奸邪，一如上一位挥舞此剑的女杰。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 5
+  },
+  {
+    "id": 11502,
+    "name": "天空之刃",
+    "description": "象征风龙的荣誉的骑士剑，如今失而复得。剑脊上吹息着风之神的赐福，蕴含苍空与长风的力量。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 5
+  },
+  {
+    "id": 11504,
+    "name": "斫峰之刃",
+    "description": "传说中象征着某一则特定契约的利刃，曾经斩落过山岳的尖端。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 5
+  },
+  {
+    "id": 11505,
+    "name": "磐岩结绿",
+    "description": "由纯净的翠玉精琢细雕而成的仪礼宝剑，挥舞时剑风中似有叹息之声。",
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "rank": 5
+  },
+  {
+    "id": 12101,
+    "name": "训练大剑",
+    "description": "仅仅是削出了剑形的厚重铁片。在意志强韧的人手里，也有劈开磐石的力量。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 1
+  },
+  {
+    "id": 12201,
+    "name": "佣兵重剑",
+    "description": "沉重坚实的古旧大剑，饱经战火与岁月的洗练。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 2
+  },
+  {
+    "id": 12301,
+    "name": "铁影阔剑",
+    "description": "这把剑是著名的光之狮艾伦德林的佩剑的仿品。握紧它，感受传说中大英雄的力量吧！注意：幻想请适度。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 3
+  },
+  {
+    "id": 12302,
+    "name": "沐浴龙血的剑",
+    "description": "据说是北方英雄浸过龙血的钢铁大剑，有刀枪不入的神力…这种护佑并不会延伸到挥舞它的人身上。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 3
+  },
+  {
+    "id": 12303,
+    "name": "白铁大剑",
+    "description": "白铁锻成的双手剑，兼顾了重量与强度。即使臂力一般的人也能舞得生风，在力量强大者手中更是威力无穷。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 3
+  },
+  {
+    "id": 12304,
+    "name": "石英大剑",
+    "description": "古朴厚重的大剑，由坚固的黑色石英雕琢打磨而成，上面有着鎏金的花纹，尽显优雅庄严。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 3
+  },
+  {
+    "id": 12305,
+    "name": "以理服人",
+    "description": "精钢打造的趁手大铁棒子。最好的理论依据。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 3
+  },
+  {
+    "id": 12306,
+    "name": "飞天大御剑",
+    "description": "可靠的大剑。传说著名的「御剑公子」曾试图借助它二度飞天。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 3
+  },
+  {
+    "id": 12401,
+    "name": "西风大剑",
+    "description": "西风骑士团的重型仪式剑。能轻易导出元素力量，具有卓越的破坏力。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 4
+  },
+  {
+    "id": 12402,
+    "name": "钟剑",
+    "description": "装有时钟的厚重大剑，其中的计时机关早已被破坏。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 4
+  },
+  {
+    "id": 12403,
+    "name": "祭礼大剑",
+    "description": "在漫长岁月中石化的道具大剑，上面的仪式性装饰依然清晰可见。拥有受时间之风冲刷的祝福力量。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 4
+  },
+  {
+    "id": 12404,
+    "name": "宗室大剑",
+    "description": "曾支配蒙德的旧日贵族的大剑。用料极佳，历久犹弥新。是贵族的战斗兵器。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 4
+  },
+  {
+    "id": 12405,
+    "name": "雨裁",
+    "description": "散发着黯淡荧光的无锋大剑，纯粹以气势和力量碾碎敌人。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 4
+  },
+  {
+    "id": 12406,
+    "name": "试作古华",
+    "description": "黑岩厂中秘藏的古老大刀。挥舞时，仿佛连空间本身也要被一刀两断。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 4
+  },
+  {
+    "id": 12407,
+    "name": "白影剑",
+    "description": "剑身上有一面未开刃的异国大剑，经商路流落到璃月。在了解它的人手里，破坏力极可观。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 4
+  },
+  {
+    "id": 12408,
+    "name": "黑岩斩刀",
+    "description": "坚韧无比的黑岩大刀，通体皆为玄赤之色。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 4
+  },
+  {
+    "id": 12409,
+    "name": "螭骨剑",
+    "description": "来自古代大海的稀有兵器，舞剑猎猎宛如太古的涛声。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 4
+  },
+  {
+    "id": 12410,
+    "name": "千岩古剑",
+    "description": "以璃月的基岩为原料削凿成的厚重大剑。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 4
+  },
+  {
+    "id": 12411,
+    "name": "雪葬的星银",
+    "description": "储存在壁画之间的古老大剑。由星银铸成，似乎拥有斩开冰雪的力量。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 4
+  },
+  {
+    "id": 12501,
+    "name": "天空之傲",
+    "description": "象征风龙的骄傲广布长空的双手剑。挥舞时的低吟是风龙的气势，蕴含苍空与长风的力量。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 5
+  },
+  {
+    "id": 12502,
+    "name": "狼的末路",
+    "description": "狼的骑士所使的大剑。原本只是城中铁匠赠予的厚重的铁片，却在他与狼的情谊中，获得神话般的力量。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 5
+  },
+  {
+    "id": 12504,
+    "name": "无工之剑",
+    "description": "能靖祛妖魔奸佞，仿佛有神威的无锋大剑。",
+    "type": "WEAPON_CLAYMORE",
+    "rank": 5
+  },
+  {
+    "id": 13101,
+    "name": "新手长枪",
+    "description": "笔直得像旗杆一般的长枪，挥舞起来颇具气势。足以应付大多数情况。",
+    "type": "WEAPON_POLE",
+    "rank": 1
+  },
+  {
+    "id": 13201,
+    "name": "铁尖枪",
+    "description": "一头有尖，可攻可守的护身武器。在旅者当中十分流行。",
+    "type": "WEAPON_POLE",
+    "rank": 2
+  },
+  {
+    "id": 13301,
+    "name": "白缨枪",
+    "description": "千岩军士兵的制式装备，枪身牢靠，枪尖锋锐，是无比可靠的武器。",
+    "type": "WEAPON_POLE",
+    "rank": 3
+  },
+  {
+    "id": 13302,
+    "name": "钺矛",
+    "description": "在矛上增加斧刃的兵器，有不俗的破坏力。是千岩军军官青睐的武器。",
+    "type": "WEAPON_POLE",
+    "rank": 3
+  },
+  {
+    "id": 13303,
+    "name": "黑缨枪",
+    "description": "解决了白缨容易弄脏问题的绝世好枪。",
+    "type": "WEAPON_POLE",
+    "rank": 3
+  },
+  {
+    "id": 13304,
+    "name": "「旗杆」",
+    "description": "备用",
+    "type": "WEAPON_POLE",
+    "rank": 3
+  },
+  {
+    "id": 13401,
+    "name": "匣里灭辰",
+    "description": "金龙缠绕的长枪，轻快锐利无比。大抵真能轻易屠龙。",
+    "type": "WEAPON_POLE",
+    "rank": 4
+  },
+  {
+    "id": 13402,
+    "name": "试作星镰",
+    "description": "黑岩厂中秘藏的古老钩枪。锋芒上点点的闪光有如夜空稀星。",
+    "type": "WEAPON_POLE",
+    "rank": 4
+  },
+  {
+    "id": 13403,
+    "name": "流月针",
+    "description": "枪尖狭长，尾部分出半月刀刃的异国兵器，经由商路流落到璃月。稍事练习掌握，便有极其出众的杀伤力。",
+    "type": "WEAPON_POLE",
+    "rank": 4
+  },
+  {
+    "id": 13404,
+    "name": "黑岩刺枪",
+    "description": "以黑岩与陨铁铸成的兵器，玄锋清凛的光泽中仿佛隐隐可见血色。",
+    "type": "WEAPON_POLE",
+    "rank": 4
+  },
+  {
+    "id": 13405,
+    "name": "决斗之枪",
+    "description": "血红色的锋利长枪，过去是某位角斗士无比珍视的宝物。枪芒上曾沾染了无数野兽与人的鲜血。",
+    "type": "WEAPON_POLE",
+    "rank": 4
+  },
+  {
+    "id": 13406,
+    "name": "千岩长枪",
+    "description": "取孤云阁的岩片精工打造的长枪，枪尖坚固无比。",
+    "type": "WEAPON_POLE",
+    "rank": 4
+  },
+  {
+    "id": 13407,
+    "name": "西风长枪",
+    "description": "西风骑士团的制式长枪。枪杆直挺，枪尖轻风流溢。",
+    "type": "WEAPON_POLE",
+    "rank": 4
+  },
+  {
+    "id": 13408,
+    "name": "宗室猎枪",
+    "description": "某位曾支配蒙德的旧日贵族，曾经珍爱的长枪。过去不曾见过天日，但如今依然尖锐无比。",
+    "type": "WEAPON_POLE",
+    "rank": 4
+  },
+  {
+    "id": 13409,
+    "name": "龙脊长枪",
+    "description": "利用龙之牙制成的长枪。有着奇异的温暖触感。",
+    "type": "WEAPON_POLE",
+    "rank": 4
+  },
+  {
+    "id": 13501,
+    "name": "护摩之杖",
+    "description": "在早已失落的古老祭仪中，使用的朱赤「柴火杖」。",
+    "type": "WEAPON_POLE",
+    "rank": 5
+  },
+  {
+    "id": 13502,
+    "name": "天空之脊",
+    "description": "象征风龙坚定决心的长枪。直挺的枪杆直指天穹，蕴含苍空与长风的力量。",
+    "type": "WEAPON_POLE",
+    "rank": 5
+  },
+  {
+    "id": 13504,
+    "name": "贯虹之槊",
+    "description": "或许能贯穿一切的锋利长枪。挥舞当中，仿佛能见到空气被枪尖划破的裂痕。",
+    "type": "WEAPON_POLE",
+    "rank": 5
+  },
+  {
+    "id": 13505,
+    "name": "和璞鸢",
+    "description": "魔神翡玉化作的长枪，拥有刺杀远古海兽的沉重与锋利。",
+    "type": "WEAPON_POLE",
+    "rank": 5
+  },
+  {
+    "id": 14101,
+    "name": "学徒笔记",
+    "description": "某个优等生留下的学习笔记，娟秀的字迹非常好看。记录了不少实用的咒语。",
+    "type": "WEAPON_CATALYST",
+    "rank": 1
+  },
+  {
+    "id": 14201,
+    "name": "口袋魔导书",
+    "description": "精心编纂，只留下考试重点的魔导参考小册。",
+    "type": "WEAPON_CATALYST",
+    "rank": 2
+  },
+  {
+    "id": 14301,
+    "name": "魔导绪论",
+    "description": "第十二版。结合时代发展加注了新内容，并修订了第十一版的错别字。",
+    "type": "WEAPON_CATALYST",
+    "rank": 3
+  },
+  {
+    "id": 14302,
+    "name": "讨龙英杰谭",
+    "description": "五名英雄踏上屠龙征途的虚构故事。文笔很差，结构散乱。失败的教训是这本书所拥有的伟大力量。",
+    "type": "WEAPON_CATALYST",
+    "rank": 3
+  },
+  {
+    "id": 14303,
+    "name": "异世界行记",
+    "description": "廉价的幻想小说，不具备参考价值。作为法器的力量当然也来自幻想。",
+    "type": "WEAPON_CATALYST",
+    "rank": 3
+  },
+  {
+    "id": 14304,
+    "name": "翡玉法球",
+    "description": "由璃月北郊绝云间出产的硬玉雕琢而成的法器。小巧轻盈，经久耐用，江湖人称「翡玉丸」。",
+    "type": "WEAPON_CATALYST",
+    "rank": 3
+  },
+  {
+    "id": 14305,
+    "name": "甲级宝珏",
+    "description": "两块玉石拼成的精致玉佩。",
+    "type": "WEAPON_CATALYST",
+    "rank": 3
+  },
+  {
+    "id": 14306,
+    "name": "琥珀玥",
+    "description": "用琥珀雕磨制成的法器，在日照下会散发出温暖的光晕。",
+    "type": "WEAPON_CATALYST",
+    "rank": 3
+  },
+  {
+    "id": 14401,
+    "name": "西风秘典",
+    "description": "西风骑士团的学者间流传的秘典，记载着元素与物质的道理和力量。",
+    "type": "WEAPON_CATALYST",
+    "rank": 4
+  },
+  {
+    "id": 14402,
+    "name": "流浪乐章",
+    "description": "记载着歌谱的厚重记事簿。尽管遭受了虫蛀和风化，残留的手迹仍透露出力量。",
+    "type": "WEAPON_CATALYST",
+    "rank": 4
+  },
+  {
+    "id": 14403,
+    "name": "祭礼残章",
+    "description": "经历漫长岁月的剧本，记载着的颂词和剧本已经无法辨认。被下了受时间之风侵蚀毁坏的诅咒。",
+    "type": "WEAPON_CATALYST",
+    "rank": 4
+  },
+  {
+    "id": 14404,
+    "name": "宗室秘法录",
+    "description": "属于曾支配蒙德的贵族麾下的宫廷魔导师，其中记载的史话与法术同样翔实。",
+    "type": "WEAPON_CATALYST",
+    "rank": 4
+  },
+  {
+    "id": 14405,
+    "name": "匣里日月",
+    "description": "材质难解的暗金宝珠，饱含日月天地的光辉，脉动着温暖的力量。",
+    "type": "WEAPON_CATALYST",
+    "rank": 4
+  },
+  {
+    "id": 14406,
+    "name": "试作金珀",
+    "description": "黑岩厂中秘藏的金珀法器。其中黯黯绽放着日月星光。",
+    "type": "WEAPON_CATALYST",
+    "rank": 4
+  },
+  {
+    "id": 14407,
+    "name": "万国诸海图谱",
+    "description": "详尽记载了大陆周边海流气候的海图，是从异国经由商路流落到璃月的奇异典籍。",
+    "type": "WEAPON_CATALYST",
+    "rank": 4
+  },
+  {
+    "id": 14408,
+    "name": "黑岩绯玉",
+    "description": "由黑岩制成的神秘法器，无常的赤色闪光仿佛大地深处的悸动同调。",
+    "type": "WEAPON_CATALYST",
+    "rank": 4
+  },
+  {
+    "id": 14409,
+    "name": "昭心",
+    "description": "幽暗的琉璃宝珠，传说中拥有洞察人心清白的力量。",
+    "type": "WEAPON_CATALYST",
+    "rank": 4
+  },
+  {
+    "id": 14410,
+    "name": "暗巷的酒与诗",
+    "description": "过去贵族时代流行的歌谱，作者已无从考究。其中记载了某位侠盗的故事…",
+    "type": "WEAPON_CATALYST",
+    "rank": 4
+  },
+  {
+    "id": 14412,
+    "name": "忍冬之果",
+    "description": "具有某种冰冷意志的奇特果实，散发着微弱的苦涩气息。",
+    "type": "WEAPON_CATALYST",
+    "rank": 4
+  },
+  {
+    "id": 14501,
+    "name": "天空之卷",
+    "description": "象征风龙与其主风之神的云图集。细致记载了北地天空的风与云，蕴含苍空与长风的力量。",
+    "type": "WEAPON_CATALYST",
+    "rank": 5
+  },
+  {
+    "id": 14502,
+    "name": "四风原典",
+    "description": "崇信风的无名先民所写的教典珍本。数千年流传的信仰之力得到了风的青睐，饱含祝福与力量。",
+    "type": "WEAPON_CATALYST",
+    "rank": 5
+  },
+  {
+    "id": 14504,
+    "name": "尘世之锁",
+    "description": "蕴含着某种悠远记忆的石锁，随着无穷的变换透露出其中的力量。",
+    "type": "WEAPON_CATALYST",
+    "rank": 5
+  },
+  {
+    "id": 15101,
+    "name": "猎弓",
+    "description": "猎手演奏的音乐由两种音色组成。弓弦颤动的声音，和羽箭破空的低啸。",
+    "type": "WEAPON_BOW",
+    "rank": 1
+  },
+  {
+    "id": 15201,
+    "name": "历练的猎弓",
+    "description": "饱经磨炼又精心护养的弓，经历了漫长的岁月。仿佛会主动配合射手的动作一般好使。",
+    "type": "WEAPON_BOW",
+    "rank": 2
+  },
+  {
+    "id": 15301,
+    "name": "鸦羽弓",
+    "description": "相传渡鸦是死的使者。将鸦羽装饰在弓臂上，射出的每一箭都宣告着猎物的终末。",
+    "type": "WEAPON_BOW",
+    "rank": 3
+  },
+  {
+    "id": 15302,
+    "name": "神射手之誓",
+    "description": "据说曾属于技艺高强的射手，是一把上好的弓。因为散发出强烈的气息，难以用于狩猎。",
+    "type": "WEAPON_BOW",
+    "rank": 3
+  },
+  {
+    "id": 15303,
+    "name": "反曲弓",
+    "description": "据说能射下苍鹰的猎弓，但能不能做到主要还得看弓手的技术。",
+    "type": "WEAPON_BOW",
+    "rank": 3
+  },
+  {
+    "id": 15304,
+    "name": "弹弓",
+    "description": "其实就是一把弓。在无数的改进和实验中，发明出究极弹弓的人发现自己做了一把弓。",
+    "type": "WEAPON_BOW",
+    "rank": 3
+  },
+  {
+    "id": 15305,
+    "name": "信使",
+    "description": "造型简单的木制弓。传说它曾被人用作远程通讯的道具。",
+    "type": "WEAPON_BOW",
+    "rank": 3
+  },
+  {
+    "id": 15306,
+    "name": "黑檀弓",
+    "description": "用檀木制成的长弓，弓臂比寻常木材硬。因此力量也更大。",
+    "type": "WEAPON_BOW",
+    "rank": 3
+  },
+  {
+    "id": 15401,
+    "name": "西风猎弓",
+    "description": "西风骑士团的制式反曲弓，只有杰出的弓手能与它的杰出性能相衬。",
+    "type": "WEAPON_BOW",
+    "rank": 4
+  },
+  {
+    "id": 15402,
+    "name": "绝弦",
+    "description": "曾经作为乐器大放异彩的弓。如今已经不再能令人起舞。",
+    "type": "WEAPON_BOW",
+    "rank": 4
+  },
+  {
+    "id": 15403,
+    "name": "祭礼弓",
+    "description": "在漫长岁月中石化的道具猎弓，上面的仪式性装饰依然清晰可见。拥有受时间之风冲刷的祝福力量。",
+    "type": "WEAPON_BOW",
+    "rank": 4
+  },
+  {
+    "id": 15404,
+    "name": "宗室长弓",
+    "description": "曾支配蒙德的旧日贵族的长弓。经过无数世代，弓弦仍十分有力，击发迅猛。",
+    "type": "WEAPON_BOW",
+    "rank": 4
+  },
+  {
+    "id": 15405,
+    "name": "弓藏",
+    "description": "布满锈迹的铁造大弓，一般人根本拿不动，遑论引弓放矢。",
+    "type": "WEAPON_BOW",
+    "rank": 4
+  },
+  {
+    "id": 15406,
+    "name": "试作澹月",
+    "description": "黑岩厂中秘藏的原型长弓。放矢之姿有如透过薄暮的月光。",
+    "type": "WEAPON_BOW",
+    "rank": 4
+  },
+  {
+    "id": 15407,
+    "name": "钢轮弓",
+    "description": "以金属制成，用滑轮引弦的复合弓，来自异国。护养极其困难，但引弓轻松，威力惊人。",
+    "type": "WEAPON_BOW",
+    "rank": 4
+  },
+  {
+    "id": 15408,
+    "name": "黑岩战弓",
+    "description": "以黑岩塑成的弓。弓臂坚硬无比，只有膂力绝人的弓手才能尽心所欲地使用。",
+    "type": "WEAPON_BOW",
+    "rank": 4
+  },
+  {
+    "id": 15409,
+    "name": "苍翠猎弓",
+    "description": "高洁的青绿猎弓，曾属于在林间狩猎的某人。",
+    "type": "WEAPON_BOW",
+    "rank": 4
+  },
+  {
+    "id": 15410,
+    "name": "暗巷猎手",
+    "description": "外形精巧奢华的长弓，曾属于某位从未被抓获的义贼。",
+    "type": "WEAPON_BOW",
+    "rank": 4
+  },
+  {
+    "id": 15413,
+    "name": "风花之颂",
+    "description": "点缀以无名花朵的弓，承载着同样无名之人的殷切希望。",
+    "type": "WEAPON_BOW",
+    "rank": 4
+  },
+  {
+    "id": 15501,
+    "name": "天空之翼",
+    "description": "象征风龙身为风之神眷属的大弓。释弦时的鸣声是风之神的偏爱，蕴含苍空与长风的力量。",
+    "type": "WEAPON_BOW",
+    "rank": 5
+  },
+  {
+    "id": 15502,
+    "name": "阿莫斯之弓",
+    "description": "极为古老的弓。即使原主不复存在，其中蕴藏之力依旧——那种力量无主，却在万物当中。距离心系之物越是遥远，那种力量愈是剧烈。",
+    "type": "WEAPON_BOW",
+    "rank": 5
+  },
+  {
+    "id": 15503,
+    "name": "终末嗟叹之诗",
+    "description": "如同诗人的乐器一般优美的弓，放出的箭矢如同叹息声一般穿透人心。",
+    "type": "WEAPON_BOW",
+    "rank": 5
+  }
+]
