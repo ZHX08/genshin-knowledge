@@ -7,7 +7,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -17,7 +18,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -27,7 +29,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -37,7 +40,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -47,7 +51,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -57,7 +62,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -67,7 +73,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -77,7 +84,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -87,7 +95,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -97,7 +106,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -107,7 +117,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -117,7 +128,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -127,7 +139,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -137,7 +150,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -147,7 +161,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -157,7 +172,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -167,7 +183,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -177,7 +194,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -187,7 +205,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -197,7 +216,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -207,7 +227,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -217,7 +238,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -227,7 +249,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -237,7 +260,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -247,7 +271,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -257,7 +282,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -267,7 +293,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -277,7 +304,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -287,7 +315,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -297,7 +326,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -307,7 +337,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -317,7 +348,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -327,7 +359,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -337,7 +370,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -347,7 +381,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -357,7 +392,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -367,7 +403,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -377,7 +414,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -387,7 +425,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -397,7 +436,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -407,7 +447,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -417,7 +458,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -427,7 +469,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -437,7 +480,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -447,7 +491,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -457,7 +502,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -467,7 +513,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -477,7 +524,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -487,7 +535,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -497,7 +546,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -507,7 +557,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -517,7 +568,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -527,7 +579,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -537,7 +590,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -547,7 +601,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -557,7 +612,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -567,7 +623,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -577,7 +634,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -587,7 +645,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -597,7 +656,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -607,7 +667,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -617,7 +678,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -627,7 +689,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -637,7 +700,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -647,7 +711,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -657,7 +722,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -667,7 +733,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -677,7 +744,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -687,7 +755,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -697,7 +766,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -707,7 +777,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -717,7 +788,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -727,7 +799,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -737,7 +810,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -747,7 +821,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -757,7 +832,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -767,7 +843,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -777,7 +854,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -787,7 +865,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -797,7 +876,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -807,7 +887,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -817,7 +898,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -827,7 +909,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -837,7 +920,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -847,7 +931,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -857,7 +942,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -867,7 +953,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -877,7 +964,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -887,7 +975,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -897,7 +986,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -907,7 +997,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -917,7 +1008,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -927,7 +1019,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -937,7 +1030,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -947,7 +1041,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -957,7 +1052,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -967,7 +1063,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -977,7 +1074,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -987,7 +1085,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -997,7 +1096,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1007,7 +1107,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1017,7 +1118,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1027,7 +1129,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1037,7 +1140,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1047,7 +1151,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1057,7 +1162,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1067,7 +1173,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1077,7 +1184,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1087,7 +1195,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1097,7 +1206,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1107,7 +1217,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1117,7 +1228,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1127,7 +1239,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1137,7 +1250,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1147,7 +1261,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1157,7 +1272,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1167,7 +1283,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1177,7 +1294,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1187,7 +1305,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1197,7 +1316,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色详细"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1207,7 +1327,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1217,7 +1338,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1227,7 +1349,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1237,7 +1360,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1247,7 +1371,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1257,7 +1382,8 @@
     "metadata": {
       "region": "枫丹",
       "story_type": "神之眼"
-    }
+    },
+    "region": "fontaine"
   },
   {
     "type": "character_friendship",
@@ -1267,7 +1393,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1277,7 +1404,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1287,7 +1415,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1297,7 +1426,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1307,7 +1437,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1317,7 +1448,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1327,7 +1459,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1337,7 +1470,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1347,7 +1481,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1357,7 +1492,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1367,7 +1503,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1377,7 +1514,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1387,7 +1525,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1397,7 +1536,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1407,7 +1547,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1417,7 +1558,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1427,7 +1569,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1437,7 +1580,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1447,7 +1591,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1457,7 +1602,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1467,7 +1613,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1477,7 +1624,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1487,7 +1635,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1497,7 +1646,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1507,7 +1657,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1517,7 +1668,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1527,7 +1679,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1537,7 +1690,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1547,7 +1701,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1557,7 +1712,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1567,7 +1723,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1577,7 +1734,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1587,7 +1745,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1597,7 +1756,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1607,7 +1767,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1617,7 +1778,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1627,7 +1789,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1637,7 +1800,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1647,7 +1811,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1657,7 +1822,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1667,7 +1833,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1677,7 +1844,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1687,7 +1855,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1697,7 +1866,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1707,7 +1877,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1717,7 +1888,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1727,7 +1899,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1737,7 +1910,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1747,7 +1921,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1757,7 +1932,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1767,7 +1943,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1777,7 +1954,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1787,7 +1965,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1797,7 +1976,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1807,7 +1987,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1817,7 +1998,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1827,7 +2009,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1837,7 +2020,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1847,7 +2031,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1857,7 +2042,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1867,7 +2053,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1877,7 +2064,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1887,7 +2075,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1897,7 +2086,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1907,7 +2097,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1917,7 +2108,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1927,7 +2119,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1937,7 +2130,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1947,7 +2141,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1957,7 +2152,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1967,7 +2163,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1977,7 +2174,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1987,7 +2185,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -1997,7 +2196,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2007,7 +2207,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2017,7 +2218,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2027,7 +2229,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2037,7 +2240,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2047,7 +2251,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2057,7 +2262,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2067,7 +2273,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2077,7 +2284,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2087,7 +2295,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2097,7 +2306,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2107,7 +2317,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2117,7 +2328,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2127,7 +2339,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2137,7 +2350,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2147,7 +2361,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2157,7 +2372,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2167,7 +2383,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2177,7 +2394,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2187,7 +2405,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2197,7 +2416,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2207,7 +2427,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2217,7 +2438,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2227,7 +2449,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2237,7 +2460,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色详细"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2247,7 +2471,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2257,7 +2482,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2267,7 +2493,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2277,7 +2504,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2287,7 +2515,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2297,7 +2526,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2307,7 +2537,8 @@
     "metadata": {
       "region": "稻妻",
       "story_type": "神之眼"
-    }
+    },
+    "region": "inazuma"
   },
   {
     "type": "character_friendship",
@@ -2317,7 +2548,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2327,7 +2559,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2337,7 +2570,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2347,7 +2581,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2357,7 +2592,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2367,7 +2603,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2377,7 +2614,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2387,7 +2625,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2397,7 +2636,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2407,7 +2647,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2417,7 +2658,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2427,7 +2669,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2437,7 +2680,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2447,7 +2691,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2457,7 +2702,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2467,7 +2713,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2477,7 +2724,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2487,7 +2735,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2497,7 +2746,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2507,7 +2757,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2517,7 +2768,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2527,7 +2779,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2537,7 +2790,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2547,7 +2801,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2557,7 +2812,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2567,7 +2823,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2577,7 +2834,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2587,7 +2845,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2597,7 +2856,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2607,7 +2867,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2617,7 +2878,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2627,7 +2889,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2637,7 +2900,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2647,7 +2911,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2657,7 +2922,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2667,7 +2933,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2677,7 +2944,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2687,7 +2955,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2697,7 +2966,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2707,7 +2977,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2717,7 +2988,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2727,7 +2999,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2737,7 +3010,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2747,7 +3021,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2757,7 +3032,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2767,7 +3043,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2777,7 +3054,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2787,7 +3065,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2797,7 +3076,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2807,7 +3087,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2817,7 +3098,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2827,7 +3109,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2837,7 +3120,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2847,7 +3131,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2857,7 +3142,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2867,7 +3153,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2877,7 +3164,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2887,7 +3175,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2897,7 +3186,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2907,7 +3197,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2917,7 +3208,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2927,7 +3219,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2937,7 +3230,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2947,7 +3241,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2957,7 +3252,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2967,7 +3263,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2977,7 +3274,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2987,7 +3285,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -2997,7 +3296,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3007,7 +3307,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3017,7 +3318,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3027,7 +3329,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3037,7 +3340,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3047,7 +3351,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3057,7 +3362,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3067,7 +3373,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3077,7 +3384,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3087,7 +3395,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3097,7 +3406,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3107,7 +3417,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3117,7 +3428,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3127,7 +3439,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3137,7 +3450,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3147,7 +3461,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3157,7 +3472,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3167,7 +3483,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3177,7 +3494,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3187,7 +3505,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3197,7 +3516,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3207,7 +3527,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3217,7 +3538,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3227,7 +3549,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3237,7 +3560,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3247,7 +3571,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3257,7 +3582,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3267,7 +3593,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3277,7 +3604,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3287,7 +3615,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3297,7 +3626,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3307,7 +3637,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3317,7 +3648,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3327,7 +3659,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3337,7 +3670,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3347,7 +3681,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3357,7 +3692,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3367,7 +3703,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3377,7 +3714,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3387,7 +3725,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3397,7 +3736,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3407,7 +3747,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3417,7 +3758,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3427,7 +3769,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3437,7 +3780,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3447,7 +3791,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3457,7 +3802,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3467,7 +3813,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3477,7 +3824,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3487,7 +3835,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3497,7 +3846,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3507,7 +3857,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3517,7 +3868,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3527,7 +3879,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3537,7 +3890,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3547,7 +3901,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3557,7 +3912,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3567,7 +3923,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3577,7 +3934,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3587,7 +3945,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3597,7 +3956,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3607,7 +3967,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3617,7 +3978,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3627,7 +3989,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3637,7 +4000,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3647,7 +4011,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色详细"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3657,7 +4022,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3667,7 +4033,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3677,7 +4044,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3687,7 +4055,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3697,7 +4066,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3707,7 +4077,8 @@
     "metadata": {
       "region": "璃月",
       "story_type": "神之眼"
-    }
+    },
+    "region": "liyue"
   },
   {
     "type": "character_friendship",
@@ -3717,7 +4088,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3727,7 +4099,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3737,7 +4110,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3747,7 +4121,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3757,7 +4132,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3767,7 +4143,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3777,7 +4154,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3787,7 +4165,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3797,7 +4176,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3807,7 +4187,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3817,7 +4198,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3827,7 +4209,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3837,7 +4220,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3847,7 +4231,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3857,7 +4242,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3867,7 +4253,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3877,7 +4264,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3887,7 +4275,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3897,7 +4286,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3907,7 +4297,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3917,7 +4308,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3927,7 +4319,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3937,7 +4330,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3947,7 +4341,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3957,7 +4352,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3967,7 +4363,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3977,7 +4374,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3987,7 +4385,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -3997,7 +4396,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4007,7 +4407,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4017,7 +4418,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4027,7 +4429,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4037,7 +4440,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4047,7 +4451,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4057,7 +4462,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4067,7 +4473,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4077,7 +4484,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4087,7 +4495,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4097,7 +4506,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4107,7 +4517,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4117,7 +4528,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4127,7 +4539,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4137,7 +4550,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4147,7 +4561,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4157,7 +4572,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4167,7 +4583,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4177,7 +4594,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4187,7 +4605,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4197,7 +4616,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4207,7 +4627,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4217,7 +4638,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4227,7 +4649,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4237,7 +4660,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4247,7 +4671,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4257,7 +4682,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4267,7 +4693,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4277,7 +4704,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4287,7 +4715,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4297,7 +4726,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4307,7 +4737,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4317,7 +4748,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4327,7 +4759,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4337,7 +4770,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4347,7 +4781,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4357,7 +4792,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4367,7 +4803,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4377,7 +4814,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4387,7 +4825,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4397,7 +4836,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4407,7 +4847,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4417,7 +4858,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4427,7 +4869,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4437,7 +4880,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4447,7 +4891,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4457,7 +4902,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4467,7 +4913,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4477,7 +4924,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4487,7 +4935,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4497,7 +4946,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4507,7 +4957,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4517,7 +4968,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4527,7 +4979,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4537,7 +4990,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4547,7 +5001,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4557,7 +5012,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4567,7 +5023,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4577,7 +5034,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4587,7 +5045,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4597,7 +5056,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4607,7 +5067,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4617,7 +5078,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4627,7 +5089,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4637,7 +5100,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4647,7 +5111,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4657,7 +5122,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4667,7 +5133,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4677,7 +5144,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4687,7 +5155,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4697,7 +5166,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4707,7 +5177,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4717,7 +5188,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4727,7 +5199,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4737,7 +5210,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4747,7 +5221,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4757,7 +5232,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4767,7 +5243,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4777,7 +5254,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4787,7 +5265,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4797,7 +5276,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4807,7 +5287,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4817,7 +5298,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4827,7 +5309,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4837,7 +5320,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4847,7 +5331,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4857,7 +5342,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4867,7 +5353,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4877,7 +5364,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4887,7 +5375,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4897,7 +5386,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4907,7 +5397,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4917,7 +5408,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4927,7 +5419,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4937,7 +5430,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4947,7 +5441,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4957,7 +5452,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4967,7 +5463,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4977,7 +5474,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4987,7 +5485,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -4997,7 +5496,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5007,7 +5507,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5017,7 +5518,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5027,7 +5529,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5037,7 +5540,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5047,7 +5551,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5057,7 +5562,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5067,7 +5573,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5077,7 +5584,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5087,7 +5595,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5097,7 +5606,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5107,7 +5617,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5117,7 +5628,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5127,7 +5639,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5137,7 +5650,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5147,7 +5661,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5157,7 +5672,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5167,7 +5683,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5177,7 +5694,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5187,7 +5705,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5197,7 +5716,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5207,7 +5727,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5217,7 +5738,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5227,7 +5749,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5237,7 +5760,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5247,7 +5771,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5257,7 +5782,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色详细"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5267,7 +5793,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5277,7 +5804,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5287,7 +5815,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5297,7 +5826,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5307,7 +5837,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5317,7 +5848,8 @@
     "metadata": {
       "region": "蒙德",
       "story_type": "神之眼"
-    }
+    },
+    "region": "mondstadt"
   },
   {
     "type": "character_friendship",
@@ -5327,7 +5859,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5337,7 +5870,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5347,7 +5881,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5357,7 +5892,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5367,7 +5903,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5377,7 +5914,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5387,7 +5925,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5397,7 +5936,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5407,7 +5947,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5417,7 +5958,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5427,7 +5969,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5437,7 +5980,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5447,7 +5991,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5457,7 +6002,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5467,7 +6013,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5477,7 +6024,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5487,7 +6035,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5497,7 +6046,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5507,7 +6057,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5517,7 +6068,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5527,7 +6079,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5537,7 +6090,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5547,7 +6101,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5557,7 +6112,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5567,7 +6123,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5577,7 +6134,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5587,7 +6145,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5597,7 +6156,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5607,7 +6167,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5617,7 +6178,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5627,7 +6189,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5637,7 +6200,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5647,7 +6211,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5657,7 +6222,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5667,7 +6233,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5677,7 +6244,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5687,7 +6255,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5697,7 +6266,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5707,7 +6277,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5717,7 +6288,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5727,7 +6299,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5737,7 +6310,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5747,7 +6321,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5757,7 +6332,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5767,7 +6343,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5777,7 +6354,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5787,7 +6365,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5797,7 +6376,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5807,7 +6387,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5817,7 +6398,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5827,7 +6409,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5837,7 +6420,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5847,7 +6431,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5857,7 +6442,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5867,7 +6453,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5877,7 +6464,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5887,7 +6475,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5897,7 +6486,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5907,7 +6497,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5917,7 +6508,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5927,7 +6519,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5937,7 +6530,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5947,7 +6541,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5957,7 +6552,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5967,7 +6563,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5977,7 +6574,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5987,7 +6585,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -5997,7 +6596,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6007,7 +6607,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6017,7 +6618,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6027,7 +6629,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6037,7 +6640,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6047,7 +6651,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6057,7 +6662,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6067,7 +6673,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6077,7 +6684,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6087,7 +6695,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6097,7 +6706,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6107,7 +6717,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6117,7 +6728,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6127,7 +6739,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6137,7 +6750,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6147,7 +6761,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6157,7 +6772,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6167,7 +6783,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6177,7 +6794,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6187,7 +6805,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6197,7 +6816,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6207,7 +6827,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6217,7 +6838,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6227,7 +6849,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6237,7 +6860,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色详细"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6247,7 +6871,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6257,7 +6882,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6267,7 +6893,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6277,7 +6904,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6287,7 +6915,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6297,7 +6926,8 @@
     "metadata": {
       "region": "纳塔",
       "story_type": "神之眼"
-    }
+    },
+    "region": "natlan"
   },
   {
     "type": "character_friendship",
@@ -6307,7 +6937,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色详细"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6317,7 +6948,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6327,7 +6959,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6337,7 +6970,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6347,7 +6981,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6357,7 +6992,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6367,7 +7003,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色详细"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6377,7 +7014,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6387,7 +7025,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6397,7 +7036,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6407,7 +7047,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6417,7 +7058,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6427,7 +7069,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色详细"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6437,7 +7080,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6447,7 +7091,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6457,7 +7102,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6467,7 +7113,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6477,7 +7124,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6487,7 +7135,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "神之眼"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6497,7 +7146,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色详细"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6507,7 +7157,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6517,7 +7168,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6527,7 +7179,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6537,7 +7190,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6547,7 +7201,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6557,7 +7212,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色详细"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6567,7 +7223,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6577,7 +7234,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6587,7 +7245,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6597,7 +7256,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6607,7 +7267,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6617,7 +7278,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色详细"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6627,7 +7289,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6637,7 +7300,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6647,7 +7311,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6657,7 +7322,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6667,7 +7333,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6677,7 +7344,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "神之眼"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6687,7 +7355,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色详细"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6697,7 +7366,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6707,7 +7377,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6717,7 +7388,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6727,7 +7399,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6737,7 +7410,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6747,7 +7421,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "神之眼"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6757,7 +7432,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "神之眼"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6767,7 +7443,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "神之眼"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6777,7 +7454,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "神之眼"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6787,7 +7465,8 @@
     "metadata": {
       "region": "挪德卡莱",
       "story_type": "神之眼"
-    }
+    },
+    "region": "nod_krai"
   },
   {
     "type": "character_friendship",
@@ -6797,7 +7476,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色详细"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6807,7 +7487,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6817,7 +7498,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6827,7 +7509,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6837,7 +7520,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6847,7 +7531,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6857,7 +7542,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "神之眼"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6867,7 +7553,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色详细"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6877,7 +7564,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6887,7 +7575,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6897,7 +7586,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6907,7 +7597,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6917,7 +7608,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6927,7 +7619,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "神之眼"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6937,7 +7630,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色详细"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6947,7 +7641,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6957,7 +7652,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6967,7 +7663,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6977,7 +7674,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6987,7 +7685,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -6997,7 +7696,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "神之眼"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7007,7 +7707,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色详细"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7017,7 +7718,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7027,7 +7729,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7037,7 +7740,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7047,7 +7751,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7057,7 +7762,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7067,7 +7773,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色详细"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7077,7 +7784,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7087,7 +7795,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7097,7 +7806,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7107,7 +7817,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7117,7 +7828,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7127,7 +7839,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "神之眼"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7137,7 +7850,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色详细"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7147,7 +7861,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7157,7 +7872,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7167,7 +7883,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7177,7 +7894,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7187,7 +7905,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7197,7 +7916,8 @@
     "metadata": {
       "region": "其他",
       "story_type": "神之眼"
-    }
+    },
+    "region": "other"
   },
   {
     "type": "character_friendship",
@@ -7207,7 +7927,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7217,7 +7938,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7227,7 +7949,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7237,7 +7960,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7247,7 +7971,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7257,7 +7982,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7267,7 +7993,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7277,7 +8004,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7287,7 +8015,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7297,7 +8026,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7307,7 +8037,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7317,7 +8048,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7327,7 +8059,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7337,7 +8070,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7347,7 +8081,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7357,7 +8092,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7367,7 +8103,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7377,7 +8114,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7387,7 +8125,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7397,7 +8136,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7407,7 +8147,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7417,7 +8158,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7427,7 +8169,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7437,7 +8180,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7447,7 +8191,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7457,7 +8202,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7467,7 +8213,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7477,7 +8224,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7487,7 +8235,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7497,7 +8246,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7507,7 +8257,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7517,7 +8268,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7527,7 +8279,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7537,7 +8290,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7547,7 +8301,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7557,7 +8312,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7567,7 +8323,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7577,7 +8334,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7587,7 +8345,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7597,7 +8356,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7607,7 +8367,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7617,7 +8378,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7627,7 +8389,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7637,7 +8400,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7647,7 +8411,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7657,7 +8422,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7667,7 +8433,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7677,7 +8444,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7687,7 +8455,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7697,7 +8466,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7707,7 +8477,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7717,7 +8488,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7727,7 +8499,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7737,7 +8510,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7747,7 +8521,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7757,7 +8532,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7767,7 +8543,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7777,7 +8554,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7787,7 +8565,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7797,7 +8576,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7807,7 +8587,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7817,7 +8598,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7827,7 +8609,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7837,7 +8620,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7847,7 +8631,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7857,7 +8642,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7867,7 +8653,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7877,7 +8664,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7887,7 +8675,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7897,7 +8686,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7907,7 +8697,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7917,7 +8708,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7927,7 +8719,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7937,7 +8730,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7947,7 +8741,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7957,7 +8752,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7967,7 +8763,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7977,7 +8774,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7987,7 +8785,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -7997,7 +8796,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8007,7 +8807,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8017,7 +8818,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8027,7 +8829,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8037,7 +8840,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8047,7 +8851,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8057,7 +8862,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8067,7 +8873,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8077,7 +8884,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8087,7 +8895,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8097,7 +8906,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8107,7 +8917,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8117,7 +8928,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色详细"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8127,7 +8939,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事1"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8137,7 +8950,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事2"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8147,7 +8961,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事3"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8157,7 +8972,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事4"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8167,7 +8983,8 @@
     "metadata": {
       "region": "须弥",
       "story_type": "角色故事5"
-    }
+    },
+    "region": "sumeru"
   },
   {
     "type": "character_friendship",
@@ -8177,6 +8994,7 @@
     "metadata": {
       "region": "须弥",
       "story_type": "神之眼"
-    }
+    },
+    "region": "sumeru"
   }
 ]
