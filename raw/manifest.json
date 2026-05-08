@@ -1,16 +1,16 @@
 {
   "generated_at": "2026-05-08",
-  "sources": {
-    "GenshinDialog": "https://github.com/mrzjy/GenshinDialog",
-    "multilingual-genshin": "https://github.com/PseudoMon/multilingual-genshin",
-    "knowledge_data": "本地知识库"
-  },
+  "total_files": 20,
   "files": {
     "NPC对话.json": 2062,
+    "README.md": 1060,
+    "manifest.json": 801,
     "书籍全文.json": 60256,
     "圣遗物故事.json": 45782,
     "地脉秘境对话.json": 1420,
     "场景互动对话.json": 6911,
+    "完整任务对话.json": 4163818,
+    "完整任务对话.txt": 1318776,
     "敌人图鉴.json": 206365,
     "机关物体对话.json": 734,
     "材料描述.json": 422476,
@@ -22,5 +22,7 @@
     "角色语音.json": 779350,
     "魔神任务对话.json": 50221,
     "魔神任务对话.txt": 21514
-  }
+  },
+  "total_size_bytes": 8818329,
+  "total_size_mb": 8.4
 }
