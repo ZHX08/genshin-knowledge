@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-05-08",
+  "sources": {
+    "GenshinDialog": "https://github.com/mrzjy/GenshinDialog",
+    "multilingual-genshin": "https://github.com/PseudoMon/multilingual-genshin",
+    "knowledge_data": "本地知识库"
+  },
+  "files": {
+    "NPC对话.json": 2062,
+    "书籍全文.json": 60256,
+    "圣遗物故事.json": 45782,
+    "地脉秘境对话.json": 1420,
+    "场景互动对话.json": 6911,
+    "敌人图鉴.json": 206365,
+    "机关物体对话.json": 734,
+    "材料描述.json": 422476,
+    "武器故事.json": 180296,
+    "活动对话.json": 1455,
+    "联机对话.json": 1618,
+    "角色好感故事.json": 1508742,
+    "角色档案.json": 44672,
+    "角色语音.json": 779350,
+    "魔神任务对话.json": 50221,
+    "魔神任务对话.txt": 21514
+  }
+}
