@@ -1,0 +1,16 @@
+{
+  "name": "genshin-knowledge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "embed_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "node-llama-cpp": "^3.18.1"
+  }
+}

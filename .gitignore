@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# Generated / derived artifacts
+knowledge_data/kb_complete.json
+public/encyclopedia_data.json
+public/graph_data.json

@@ -1,0 +1,1054 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5">
+<title>原神·知识百科</title>
+<style>
+:root {
+  --bg: #0d1117;
+  --bg2: #151b23;
+  --bg3: #1c2333;
+  --border: #30363d;
+  --text: #e6edf3;
+  --text2: #8b949e;
+  --accent: #58a6ff;
+  --accent2: #3b82f6;
+  --card-bg: #161b22;
+  --card-hover: #1c2333;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --shadow: 0 4px 20px rgba(0,0,0,0.3);
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { font-size:16px; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: #30363d; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #484f58; }
+
+/* Header */
+.header {
+  position: sticky; top:0; z-index:100;
+  background: rgba(13,17,23,0.92);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 20px;
+}
+.header-inner {
+  max-width: 1400px; margin:0 auto;
+  display: flex; align-items: center; gap: 16px;
+  flex-wrap: wrap;
+}
+.header h1 {
+  font-size: 20px; font-weight: 700;
+  background: linear-gradient(135deg, #58a6ff, #a78bfa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  white-space: nowrap;
+}
+.search-box {
+  flex: 1; min-width: 200px; max-width: 400px;
+  position: relative;
+}
+.search-box input {
+  width: 100%; padding: 8px 14px; padding-left: 36px;
+  border-radius: 24px; border: 1px solid var(--border);
+  background: var(--bg2); color: var(--text);
+  font-size: 14px; outline: none;
+  transition: border-color 0.2s;
+}
+.search-box input:focus { border-color: var(--accent); }
+.search-box input::placeholder { color: var(--text2); }
+.search-box .icon {
+  position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
+  color: var(--text2); font-size: 16px; pointer-events: none;
+}
+.header-actions {
+  display: flex; align-items: center; gap: 10px;
+}
+.header-stats { font-size: 13px; color: var(--text2); white-space: nowrap; }
+
+/* Type tabs */
+.type-bar {
+  max-width: 1400px; margin: 0 auto; padding: 10px 20px 0;
+  display: flex; gap: 6px; flex-wrap: wrap;
+  position: sticky; top: 56px; z-index: 99;
+  background: var(--bg);
+  padding-bottom: 10px;
+}
+.type-tab {
+  padding: 6px 14px; border-radius: 20px;
+  border: 1px solid var(--border);
+  background: var(--bg2);
+  color: var(--text2); font-size: 13px;
+  cursor: pointer; transition: all 0.2s;
+  white-space: nowrap;
+  display: flex; align-items: center; gap: 4px;
+}
+.type-tab:hover { border-color: var(--accent); color: var(--text); }
+.type-tab.active {
+  background: var(--accent); color: #fff; border-color: var(--accent);
+}
+.type-tab .count {
+  font-size: 11px; opacity: 0.7; margin-left: 2px;
+}
+.type-tab .sub-count {
+  font-size: 10px; opacity: 0.5; margin-left: 1px;
+}
+
+/* Main content */
+.main {
+  max-width: 1400px; margin: 0 auto; padding: 0 20px 40px;
+}
+
+/* Card grid */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+/* Generic card + char card shared styles */
+.generic-card, .char-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+.generic-card:hover, .char-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 4px 16px rgba(88,166,255,0.1);
+  transform: translateY(-2px);
+}
+.generic-card .card-header, .char-card .card-header {
+  display: flex; align-items: center; gap: 10px;
+  margin-bottom: 8px;
+}
+.generic-card .avatar, .char-card .avatar {
+  width: 40px; height: 40px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 18px; font-weight: 700;
+  flex-shrink: 0;
+  border: 2px solid rgba(255,255,255,0.1);
+}
+.generic-card .item-name, .char-card .char-name {
+  font-size: 16px; font-weight: 600;
+  flex: 1; min-width: 0;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.generic-card .meta-row, .char-card .char-meta {
+  display: flex; flex-wrap: wrap; gap: 6px;
+  margin-bottom: 8px;
+}
+.generic-card .meta-tag, .char-card .region-label {
+  font-size: 11px; padding: 2px 8px;
+  border-radius: 10px;
+  background: var(--bg3); color: var(--text2);
+}
+.generic-card .content-preview, .char-card .story-preview {
+  font-size: 13px; color: var(--text2);
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.generic-card .source-line, .char-card .source-line {
+  font-size: 11px; color: var(--text2);
+  margin-top: 8px; padding-top: 8px;
+  border-top: 1px solid var(--border);
+  opacity: 0.7;
+}
+.generic-card .expand-hint, .char-card .expand-hint {
+  position: absolute; bottom: 8px; right: 12px;
+  font-size: 11px; color: var(--accent); opacity: 0;
+  transition: opacity 0.2s;
+}
+.generic-card:hover .expand-hint, .char-card:hover .expand-hint { opacity: 0.8; }
+
+/* Element tags - color block only */
+.element-tag {
+  display: inline-block;
+  width: 16px; height: 16px;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+.element-风 { background: #7de8d6; }
+.element-火 { background: #f87171; }
+.element-水 { background: #60a5fa; }
+.element-雷 { background: #a78bfa; }
+.element-冰 { background: #67e8f9; }
+.element-草 { background: #4ade80; }
+.element-岩 { background: #fbbf24; }
+.element-幽 { background: #c084fc; }
+
+/* Rarity stars */
+.stars {
+  color: #fbbf24; font-size: 12px; letter-spacing: 1px;
+}
+
+/* Section title */
+.section-title {
+  font-size: 22px; font-weight: 700; margin: 24px 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--border);
+  display: flex; align-items: center; gap: 10px;
+}
+.section-title .tag {
+  font-size: 12px; color: var(--text2);
+  background: var(--bg3); padding: 2px 10px;
+  border-radius: 12px; font-weight: normal;
+}
+.region-group-label {
+  font-size: 13px; font-weight: 600; color: var(--text2);
+  padding: 16px 0 4px; margin-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; gap: 8px;
+}
+.region-group-label .tag {
+  font-size: 11px; color: var(--text2);
+  background: var(--bg3); padding: 1px 8px;
+  border-radius: 10px; font-weight: normal;
+}
+
+/* Detail overlay */
+.detail-overlay {
+  position: fixed; inset: 0; z-index: 200;
+  background: rgba(0,0,0,0.6);
+  display: none; align-items: center; justify-content: center;
+  padding: 20px;
+  backdrop-filter: blur(4px);
+}
+.detail-overlay.open { display: flex; }
+.detail-panel {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  max-width: 800px; width: 100%;
+  max-height: 85vh;
+  overflow-y: auto;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.5);
+  animation: slideUp 0.25s ease;
+}
+@keyframes slideUp {
+  from { opacity:0; transform:translateY(20px); }
+  to { opacity:1; transform:translateY(0); }
+}
+.detail-header {
+  position: sticky; top:0;
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  padding: 16px 20px;
+  display: flex; align-items: center; gap: 12px;
+  z-index: 1;
+}
+.detail-avatar {
+  width: 48px; height: 48px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 24px; font-weight: 700;
+  border: 2px solid rgba(255,255,255,0.15);
+  flex-shrink: 0;
+}
+.detail-title-area {
+  flex: 1; min-width: 0;
+}
+.detail-title-area h2 {
+  font-size: 20px; font-weight: 700;
+}
+.detail-title-area .detail-meta {
+  display: flex; flex-wrap: wrap; gap: 6px; margin-top: 4px;
+}
+.detail-meta-tag {
+  font-size: 11px; padding: 2px 8px; border-radius: 10px;
+  background: var(--bg3); color: var(--text2);
+}
+.detail-close {
+  width: 32px; height: 32px; border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--bg3);
+  color: var(--text2); font-size: 18px;
+  cursor: pointer; display: flex; align-items: center; justify-content: center;
+  transition: all 0.2s; flex-shrink: 0;
+}
+.detail-close:hover { background: var(--border); color: var(--text); }
+.detail-body { padding: 20px; }
+.detail-body .type-badge {
+  display: inline-flex; align-items: center; gap: 4px;
+  background: var(--bg3); color: var(--text2);
+  font-size: 11px; padding: 3px 10px; border-radius: 12px;
+  margin-bottom: 12px;
+}
+.detail-body .detail-content {
+  font-size: 14px; line-height: 1.8;
+  white-space: pre-wrap;
+  color: var(--text);
+  background: var(--bg3);
+  border-radius: var(--radius-sm);
+  padding: 14px;
+  margin-bottom: 16px;
+}
+
+/* Character detail */
+.detail-profile {
+  background: var(--bg3);
+  border-radius: var(--radius-sm);
+  padding: 12px 16px;
+  margin-bottom: 20px;
+  font-size: 14px; line-height: 1.6;
+  color: var(--text);
+}
+.story-section {
+  margin-bottom: 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+.story-section-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 10px 14px;
+  background: var(--bg3);
+  cursor: pointer;
+  user-select: none;
+  transition: background 0.2s;
+}
+.story-section-header:hover { background: var(--card-hover); }
+.story-section-header h3 {
+  font-size: 14px; font-weight: 600;
+}
+.story-section-header .story-source {
+  font-size: 11px; color: var(--text2); margin-left: 10px; flex: 1;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  opacity: 0.65;
+}
+.story-section-header .toggle-icon {
+  transition: transform 0.2s;
+  color: var(--text2);
+  font-size: 14px;
+}
+.story-section-header.collapsed .toggle-icon {
+  transform: rotate(-90deg);
+}
+.story-section-content {
+  padding: 14px;
+  font-size: 14px; line-height: 1.8;
+  white-space: pre-wrap;
+  color: var(--text);
+  border-top: 1px solid var(--border);
+}
+.story-section-content.hidden { display: none; }
+
+/* Stat table */
+.stat-table {
+  width: 100%; border-collapse: collapse;
+  margin-bottom: 16px;
+}
+.stat-table td {
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  font-size: 13px;
+}
+.stat-table td:first-child {
+  background: var(--bg3);
+  color: var(--text2);
+  white-space: nowrap;
+  width: 110px;
+  font-weight: 500;
+}
+
+/* Search results */
+.search-results {
+  display: none;
+  position: fixed; top: 70px; left: 50%; transform: translateX(-50%);
+  z-index: 150;
+  width: min(90vw, 700px);
+  max-height: 70vh;
+  overflow-y: auto;
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: 0 8px 40px rgba(0,0,0,0.5);
+  padding: 0;
+}
+.search-results.open { display: block; }
+.search-result-group {
+  padding: 12px 16px 8px;
+  border-bottom: 1px solid var(--border);
+}
+.search-result-group:last-child { border-bottom: none; }
+.search-result-group h4 {
+  font-size: 12px; font-weight: 600; color: var(--text2);
+  margin-bottom: 8px;
+}
+.search-result-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 8px 10px; border-radius: var(--radius-sm);
+  cursor: pointer; transition: background 0.2s;
+}
+.search-result-item:hover { background: var(--bg3); }
+.search-result-avatar {
+  width: 32px; height: 32px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 14px; flex-shrink: 0;
+}
+.search-result-info { flex: 1; min-width: 0; }
+.search-result-info .name {
+  font-size: 14px; font-weight: 500;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.search-result-info .detail {
+  font-size: 11px; color: var(--text2);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.search-no-results {
+  padding: 24px; text-align: center; color: var(--text2);
+  font-size: 14px;
+}
+
+/* Loading */
+.loading {
+  text-align: center; padding: 60px 20px;
+  color: var(--text2);
+}
+.loading .spinner {
+  display: inline-block; width: 32px; height: 32px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin-bottom: 12px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+@media (max-width: 768px) {
+  .header { padding: 10px 12px; }
+  .header h1 { font-size: 17px; }
+  .search-box { min-width: 140px; }
+  .header-stats { font-size: 11px; }
+  .type-bar { padding: 8px 12px 0; gap: 4px; }
+  .type-tab { font-size: 12px; padding: 4px 10px; }
+  .main { padding: 0 12px 24px; }
+  .card-grid { grid-template-columns: 1fr; }
+  .detail-panel { max-height: 90vh; border-radius: 12px; }
+  .detail-overlay { padding: 10px; }
+  .search-results { width: 95vw; top: 64px; }
+}
+@media (min-width: 769px) and (max-width: 1100px) {
+  .card-grid { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-inner">
+    <h1>原神·知识百科</h1>
+    <div class="search-box">
+      <span class="icon">🔍</span>
+      <input type="text" id="searchInput" placeholder="搜索角色、武器、圣遗物、材料…" autocomplete="off">
+    </div>
+    <div class="header-actions">
+      <span class="header-stats" id="statsLine">加载中…</span>
+    </div>
+  </div>
+</div>
+
+<div class="type-bar" id="typeBar"></div>
+
+<div class="main" id="mainContent">
+  <div class="loading" id="loadingIndicator">
+    <div class="spinner"></div>
+    <div>加载数据中…</div>
+  </div>
+</div>
+
+<div class="detail-overlay" id="detailOverlay">
+  <div class="detail-panel" id="detailPanel">
+    <div class="detail-header" id="detailHeader"></div>
+    <div class="detail-body" id="detailBody"></div>
+  </div>
+</div>
+
+<div class="search-results" id="searchResults"></div>
+
+<script>
+const DATA_URL = 'encyclopedia_data.json';
+let data = null;
+let activeType = 'character_friendship';
+
+const ELEMENT_EMOJI = {
+  '风': '🌪️', '火': '🔥', '水': '💧', '雷': '⚡',
+  '冰': '❄️', '草': '🌿', '岩': '🪨', '幽': '🌑',
+};
+const ELEMENT_COLORS = {
+  '风': '#7de8d6', '火': '#f87171', '水': '#60a5fa', '雷': '#a78bfa',
+  '冰': '#67e8f9', '草': '#4ade80', '岩': '#fbbf24', '幽': '#c084fc',
+};
+const REGION_EMOJI = {
+  '蒙德': '🏰', '璃月': '🏮', '稻妻': '⛩️', '须弥': '🌴',
+  '枫丹': '💧', '纳塔': '🌋', '挪德卡莱': '🏔️', '至冬': '❄️', '其他': '📜',
+};
+const TYPE_ICONS = {
+  'character_friendship': '💬', 'weapon': '⚔️', 'material': '🧪',
+  'character_story': '👤', 'quest_side': '📜', 'book': '📖',
+  'artifact': '🪬', 'quest_main': '🎬', 'enemy': '👹', '_region': '🗺️',
+};
+const REGION_ORDER = ['蒙德', '璃月', '稻妻', '须弥', '枫丹', '纳塔', '挪德卡莱', '至冬', '其他'];
+
+// ====== Load ======
+
+async function loadData() {
+  try {
+    const resp = await fetch(DATA_URL);
+    data = await resp.json();
+    document.getElementById('loadingIndicator').style.display = 'none';
+    renderTypeTabs();
+    activateType('character_friendship');
+  } catch(e) {
+    document.getElementById('loadingIndicator').innerHTML =
+      '<div style="color:#f87171;">⚠️ 数据加载失败: ' + escapeHtml(e.message) + '</div>';
+  }
+}
+loadData();
+
+// ====== Type Tabs ======
+
+function renderTypeTabs() {
+  const bar = document.getElementById('typeBar');
+  let html = '';
+  data.types.forEach(t => {
+    const active = t.key === activeType ? 'active' : '';
+    html += '<button class="type-tab ' + active + '" data-type="' + t.key + '">'
+      + (TYPE_ICONS[t.key] || '📌') + ' ' + t.label
+      + ' <span class="count">' + t.count_items + '</span>';
+    if (t.count_sub) {
+      html += '<span class="sub-count">(' + t.count_sub + ')</span>';
+    }
+    html += '</button>';
+  });
+  bar.innerHTML = html;
+
+  bar.querySelectorAll('.type-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      bar.querySelectorAll('.type-tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      activeType = tab.dataset.type;
+      renderType(activeType);
+    });
+  });
+
+  let totalItems = 0, totalSub = 0;
+  data.types.forEach(t => { totalItems += t.count_items; totalSub += t.count_sub; });
+  document.getElementById('statsLine').textContent = totalItems + ' 条目 · ' + totalSub + ' 条详情';
+}
+
+function activateType(key) {
+  const bar = document.getElementById('typeBar');
+  bar.querySelectorAll('.type-tab').forEach(t => t.classList.remove('active'));
+  const tab = bar.querySelector('[data-type="' + key + '"]');
+  if (tab) tab.classList.add('active');
+  activeType = key;
+  renderType(key);
+}
+
+// ====== Main Render ======
+
+function renderType(key) {
+  const container = document.getElementById('mainContent');
+  const typeData = data.types.find(t => t.key === key);
+  if (!typeData) return;
+
+  switch (key) {
+    case 'character_friendship': renderCharacters(container, typeData); break;
+    case 'character_story': renderCharStories(container, typeData); break;
+    case 'weapon':
+    case 'material':
+    case 'book':
+    case 'artifact':
+    case 'enemy':
+    case 'quest_main':
+    case 'quest_side':
+      renderGeneric(container, typeData); break;
+    case '_region': renderRegions(container, typeData); break;
+    default: renderGeneric(container, typeData);
+  }
+}
+
+// ====== Character Friendship ======
+
+function renderCharacters(container, typeData) {
+  const items = typeData.items;
+  const groups = {};
+  items.forEach(c => {
+    const r = c.region || '其他';
+    if (!groups[r]) groups[r] = [];
+    groups[r].push(c);
+  });
+
+  let html = '';
+  REGION_ORDER.forEach(r => {
+    if (!groups[r]) return;
+    const emoji = REGION_EMOJI[r] || '📍';
+    html += '<div class="section-title">' + emoji + ' ' + r + ' <span class="tag">' + groups[r].length + ' 位角色</span></div>';
+    html += '<div class="card-grid">';
+    groups[r].forEach(c => { html += renderCharCard(c); });
+    html += '</div>';
+  });
+  container.innerHTML = html;
+
+  container.querySelectorAll('.char-card').forEach(el => {
+    el.addEventListener('click', () => {
+      const name = el.dataset.name;
+      const typeData = data.types.find(t => t.key === 'character_friendship');
+      const char = typeData.items.find(c => c.name === name);
+      if (char) openCharacterDetail(char);
+    });
+  });
+}
+
+function renderCharCard(c) {
+  const elem = c.element || '?';
+  const emoji = ELEMENT_EMOJI[elem] || '❓';
+  const color = ELEMENT_COLORS[elem] || '#888';
+  const firstStory = c.stories && c.stories.length > 0 ? c.stories[0] : null;
+  const previewText = firstStory
+    ? firstStory.content.replace(/\n/g, ' ').substring(0, 80)
+    : c.profile ? c.profile.replace(/\n/g, ' ').substring(0, 80) : '暂无内容';
+  const firstSource = firstStory ? firstStory.type : (c.profile ? '角色概述' : '');
+
+  return '<div class="char-card" data-name="' + c.name + '">'
+    + '<div class="card-header">'
+    + '<div class="avatar" style="background:' + color + '33; border-color:' + color + '66;">' + emoji + '</div>'
+    + '<div class="char-name">' + escapeHtml(c.name) + '</div></div>'
+    + '<div class="char-meta">'
+    + '<span class="element-tag element-' + elem + '"></span>'
+    + '<span class="region-label">' + (REGION_EMOJI[c.region] || '📍') + ' ' + (c.region || '未知') + '</span></div>'
+    + '<div class="story-preview">' + escapeHtml(previewText) + (previewText.length >= 80 ? '…' : '') + '</div>'
+    + '<div class="source-line">📖 ' + escapeHtml(firstSource) + '</div>'
+    + '<div class="expand-hint">点击展开详情 →</div></div>';
+}
+
+// ====== Character Story ======
+
+function renderCharStories(container, typeData) {
+  const items = typeData.items;
+  const groups = {};
+  items.forEach(c => {
+    const r = c.region || '其他';
+    if (!groups[r]) groups[r] = [];
+    groups[r].push(c);
+  });
+
+  let html = '';
+  REGION_ORDER.forEach(r => {
+    if (!groups[r]) return;
+    const emoji = REGION_EMOJI[r] || '📍';
+    html += '<div class="section-title">' + emoji + ' ' + r + ' <span class="tag">' + groups[r].length + ' 位角色</span></div>';
+    html += '<div class="card-grid">';
+    groups[r].forEach(c => {
+      const elem = c.element || '?';
+      const em = ELEMENT_EMOJI[elem] || '❓';
+      const color = ELEMENT_COLORS[elem] || '#888';
+      const preview = (c.content || '').replace(/\n/g, ' ').substring(0, 80);
+      html += '<div class="generic-card" data-name="' + c.name + '">'
+        + '<div class="card-header">'
+        + '<div class="avatar" style="background:' + color + '33; border-color:' + color + '66;">' + em + '</div>'
+        + '<div class="char-name">' + escapeHtml(c.name) + '</div></div>'
+        + '<div class="meta-row">'
+        + '<span class="element-tag element-' + elem + '"></span>'
+        + '<span class="region-label">' + (REGION_EMOJI[c.region] || '📍') + ' ' + (c.region || '未知') + '</span></div>'
+        + '<div class="content-preview">' + escapeHtml(preview) + (preview.length >= 80 ? '…' : '') + '</div>'
+        + '<div class="source-line">👤 角色故事</div>'
+        + '<div class="expand-hint">点击展开详情 →</div></div>';
+    });
+    html += '</div>';
+  });
+  container.innerHTML = html;
+
+  container.querySelectorAll('.generic-card').forEach(el => {
+    el.addEventListener('click', () => {
+      const name = el.dataset.name;
+      const char = typeData.items.find(c => c.name === name);
+      if (char) openCharStoryDetail(char);
+    });
+  });
+}
+
+// ====== Generic (weapon, material, book, artifact, enemy, quest) ======
+
+function renderGeneric(container, typeData) {
+  const items = typeData.items;
+  const hasRegion = items.some(i => i.region);
+  let html = '';
+
+  if (hasRegion) {
+    const groups = {};
+    items.forEach(i => {
+      const r = i.region || '其他';
+      if (!groups[r]) groups[r] = [];
+      groups[r].push(i);
+    });
+    REGION_ORDER.forEach(r => {
+      if (!groups[r]) return;
+      const emoji = REGION_EMOJI[r] || '📍';
+      html += '<div class="region-group-label">' + emoji + ' ' + r + ' <span class="tag">' + groups[r].length + '</span></div>';
+      html += '<div class="card-grid">';
+      groups[r].forEach(item => { html += renderGenCard(item, typeData.key); });
+      html += '</div>';
+    });
+  } else {
+    html += '<div class="card-grid">';
+    items.forEach(item => { html += renderGenCard(item, typeData.key); });
+    html += '</div>';
+  }
+
+  container.innerHTML = html;
+
+  container.querySelectorAll('.generic-card').forEach(el => {
+    el.addEventListener('click', () => {
+      const idx = parseInt(el.dataset.index);
+      const item = typeData.items[idx];
+      if (item) openGenericDetail(item, typeData.key);
+    });
+  });
+}
+
+function renderGenCard(item, key) {
+  const icon = TYPE_ICONS[key] || '📌';
+  const label = data.types.find(t => t.key === key)?.label || key;
+  let metaHtml = '';
+  if (key === 'weapon') {
+    if (item.rarity) metaHtml += '<span class="meta-tag">⭐'.repeat(parseInt(item.rarity)) + '</span>';
+    if (item.weapon_type) metaHtml += '<span class="meta-tag">' + escapeHtml(item.weapon_type) + '</span>';
+    if (item.region) metaHtml += '<span class="meta-tag">' + (REGION_EMOJI[item.region] || '') + ' ' + escapeHtml(item.region) + '</span>';
+  } else if (key === 'material') {
+    if (item.material_type) metaHtml += '<span class="meta-tag">' + escapeHtml(item.material_type) + '</span>';
+    if (item.rarity) metaHtml += '<span class="meta-tag">' + escapeHtml(item.rarity) + '</span>';
+    if (item.region) metaHtml += '<span class="meta-tag">' + escapeHtml(item.region) + '</span>';
+  } else if (key === 'book') {
+    if (item.category) metaHtml += '<span class="meta-tag">' + escapeHtml(item.category) + '</span>';
+    if (item.region) metaHtml += '<span class="meta-tag">' + escapeHtml(item.region) + '</span>';
+  } else if (key === 'artifact') {
+    if (item.region) metaHtml += '<span class="meta-tag">' + escapeHtml(item.region) + '</span>';
+  } else if (key === 'enemy') {
+    if (item.region) metaHtml += '<span class="meta-tag">' + escapeHtml(item.region) + '</span>';
+    if (item.category) metaHtml += '<span class="meta-tag">' + escapeHtml(item.category) + '</span>';
+  } else if (key === 'quest_main' || key === 'quest_side') {
+    if (item.region) metaHtml += '<span class="meta-tag">' + (REGION_EMOJI[item.region] || '') + ' ' + escapeHtml(item.region) + '</span>';
+  } else {
+    if (item.region) metaHtml += '<span class="meta-tag">' + escapeHtml(item.region) + '</span>';
+  }
+
+  const preview = (item.content || '').replace(/\n/g, ' ').substring(0, 80);
+  return '<div class="generic-card" data-index="' + item._index + '">'
+    + '<div class="card-header">'
+    + '<div class="avatar" style="background:var(--bg3);border-color:var(--border);">' + icon + '</div>'
+    + '<div class="item-name">' + escapeHtml(item.name) + '</div></div>'
+    + '<div class="meta-row">' + metaHtml + '</div>'
+    + '<div class="content-preview">' + escapeHtml(preview) + (preview.length >= 80 ? '…' : '') + '</div>'
+    + '<div class="source-line">📌 ' + label + '</div>'
+    + '<div class="expand-hint">点击展开详情 →</div></div>';
+}
+
+// ====== Regions ======
+
+function renderRegions(container, typeData) {
+  let html = '<div class="card-grid">';
+  typeData.items.forEach(item => {
+    html += '<div class="generic-card" data-index="' + item._index + '">'
+      + '<div class="card-header">'
+      + '<div class="avatar" style="background:var(--bg3);border-color:var(--border);">🗺️</div>'
+      + '<div class="item-name">' + escapeHtml(item.name) + '</div></div>'
+      + '<div class="content-preview" style="margin-bottom:4px;">' + escapeHtml(item.content) + '</div>'
+      + '<div class="source-line">🗺️ 地区概览</div>'
+      + '<div class="expand-hint">查看详情 →</div></div>';
+  });
+  html += '</div>';
+  container.innerHTML = html;
+}
+
+// ====== Detail Panels ======
+
+function openCharacterDetail(char) {
+  const overlay = document.getElementById('detailOverlay');
+  const header = document.getElementById('detailHeader');
+  const body = document.getElementById('detailBody');
+
+  const elem = char.element || '?';
+  const emoji = ELEMENT_EMOJI[elem] || '❓';
+  const color = ELEMENT_COLORS[elem] || '#888';
+  const regionEmoji = REGION_EMOJI[char.region] || '📍';
+
+  header.innerHTML = ''
+    + '<div class="detail-avatar" style="background:' + color + '33; border-color:' + color + '66;">' + emoji + '</div>'
+    + '<div class="detail-title-area">'
+    + '<h2>' + escapeHtml(char.name) + '</h2>'
+    + '<div class="detail-meta">'
+    + '<span class="element-tag element-' + elem + '"></span>'
+    + '<span class="detail-meta-tag">' + regionEmoji + ' ' + (char.region || '未知') + '</span>'
+    + '</div></div>'
+    + '<button class="detail-close" onclick="closeDetail()">✕</button>';
+
+  let html = '';
+  if (char.profile) {
+    html += '<div class="detail-profile">' + escapeHtml(char.profile) + '</div>';
+  }
+
+  if (char.stories && char.stories.length > 0) {
+    const storyLabels = { '角色详细': '角色详细', '角色故事1': '角色故事·之一', '角色故事2': '角色故事·之二',
+      '角色故事3': '角色故事·之三', '角色故事4': '角色故事·之四', '角色故事5': '角色故事·之五', '神之眼': '神之眼' };
+
+    char.stories.forEach((s, idx) => {
+      const label = storyLabels[s.type] || s.type;
+      const collapsed = idx > 0 ? 'collapsed' : '';
+      const hidden = idx > 0 ? 'hidden' : '';
+      html += '<div class="story-section">'
+        + '<div class="story-section-header ' + collapsed + '" onclick="toggleStory(this)">'
+        + '<h3>' + label + '</h3>'
+        + '<span class="story-source">' + escapeHtml(s.source || '') + '</span>'
+        + '<span class="toggle-icon">▼</span></div>'
+        + '<div class="story-section-content ' + hidden + '">' + escapeHtml(s.content) + '</div></div>';
+    });
+  } else {
+    html += '<div style="color:var(--text2);text-align:center;padding:20px;">暂无好感度故事数据</div>';
+  }
+
+  body.innerHTML = html;
+  overlay.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+}
+
+function openCharStoryDetail(char) {
+  const overlay = document.getElementById('detailOverlay');
+  const header = document.getElementById('detailHeader');
+  const body = document.getElementById('detailBody');
+
+  const elem = char.element || '?';
+  const emoji = ELEMENT_EMOJI[elem] || '❓';
+  const color = ELEMENT_COLORS[elem] || '#888';
+  const regionEmoji = REGION_EMOJI[char.region] || '📍';
+
+  header.innerHTML = ''
+    + '<div class="detail-avatar" style="background:' + color + '33; border-color:' + color + '66;">' + emoji + '</div>'
+    + '<div class="detail-title-area">'
+    + '<h2>' + escapeHtml(char.name) + '</h2>'
+    + '<div class="detail-meta">'
+    + '<span class="element-tag element-' + elem + '"></span>'
+    + '<span class="detail-meta-tag">' + regionEmoji + ' ' + (char.region || '未知') + '</span>'
+    + '</div></div>'
+    + '<button class="detail-close" onclick="closeDetail()">✕</button>';
+
+  body.innerHTML = '<div class="type-badge">👤 角色故事</div>'
+    + '<div class="detail-content">' + escapeHtml(char.content) + '</div>';
+
+  overlay.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+}
+
+function openGenericDetail(item, typeKey) {
+  const overlay = document.getElementById('detailOverlay');
+  const header = document.getElementById('detailHeader');
+  const body = document.getElementById('detailBody');
+
+  const typeIcon = TYPE_ICONS[typeKey] || '📌';
+  const typeLabel = data.types.find(t => t.key === typeKey)?.label || typeKey;
+
+  let metaHtml = '';
+  ['region', 'rarity', 'weapon_type', 'material_type', 'category'].forEach(f => {
+    if (item[f]) {
+      let val = item[f];
+      if (f === 'rarity') val = '⭐'.repeat(parseInt(val) || 0);
+      metaHtml += '<span class="detail-meta-tag">' + escapeHtml(val) + '</span>';
+    }
+  });
+
+  header.innerHTML = ''
+    + '<div class="detail-avatar" style="background:var(--bg3);border-color:var(--border);">' + typeIcon + '</div>'
+    + '<div class="detail-title-area">'
+    + '<h2>' + escapeHtml(item.name) + '</h2>'
+    + '<div class="detail-meta">' + metaHtml + '</div></div>'
+    + '<button class="detail-close" onclick="closeDetail()">✕</button>';
+
+  let html = '<div class="type-badge">' + typeIcon + ' ' + typeLabel + '</div>';
+
+  if (typeKey === 'weapon') {
+    html += '<table class="stat-table">'
+      + '<tr><td>稀有度</td><td>' + '⭐'.repeat(parseInt(item.rarity) || 0) + '</td></tr>'
+      + '<tr><td>武器类型</td><td>' + escapeHtml(item.weapon_type || '') + '</td></tr>'
+      + '<tr><td>所属地区</td><td>' + (REGION_EMOJI[item.region] || '') + ' ' + escapeHtml(item.region || '') + '</td></tr>'
+      + '</table>';
+  }
+
+  html += '<div class="detail-content">' + escapeHtml(item.content) + '</div>';
+  body.innerHTML = html;
+  overlay.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+}
+
+function toggleStory(el) {
+  el.classList.toggle('collapsed');
+  const content = el.nextElementSibling;
+  content.classList.toggle('hidden');
+  content.style.display = content.classList.contains('hidden') ? 'none' : '';
+}
+
+function closeDetail() {
+  document.getElementById('detailOverlay').style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+// ====== Search ======
+
+const searchInput = document.getElementById('searchInput');
+const searchResults = document.getElementById('searchResults');
+let searchTimer = null;
+
+searchInput.addEventListener('input', () => {
+  clearTimeout(searchTimer);
+  const q = searchInput.value.trim();
+  if (q.length < 1) { searchResults.classList.remove('open'); return; }
+  searchTimer = setTimeout(() => doSearch(q), 150);
+});
+
+searchInput.addEventListener('blur', () => {
+  setTimeout(() => searchResults.classList.remove('open'), 300);
+});
+
+searchInput.addEventListener('focus', () => {
+  const q = searchInput.value.trim();
+  if (q.length >= 1) doSearch(q);
+});
+
+function doSearch(q) {
+  if (!data) return;
+  const lower = q.toLowerCase();
+
+  const resultGroups = {};
+  data.types.forEach(typeData => {
+    const results = [];
+    typeData.items.forEach(item => {
+      const fields = [item.name, item.region, item.element, item.content, item.profile]
+        .concat(item.stories ? item.stories.map(s => s.content + ' ' + s.type) : []);
+      const matchText = fields.filter(Boolean).join(' ').toLowerCase();
+      if (matchText.includes(lower)) {
+        const extra = [];
+        if (item.weapon_type) extra.push(item.weapon_type);
+        if (item.material_type) extra.push(item.material_type);
+        if (item.category) extra.push(item.category);
+        if (item.rarity) extra.push(item.rarity + '★');
+        results.push({
+          name: item.name,
+          detail: (item.region ? item.region + ' · ' : '') + (extra.length ? extra.join(' · ') + ' · ' : '') + typeData.label,
+          icon: TYPE_ICONS[typeData.key] || '📌',
+          typeKey: typeData.key,
+        });
+      }
+    });
+    if (results.length > 0) resultGroups[typeData.key] = results;
+  });
+
+  const typeOrder = ['character_friendship', 'weapon', 'material', 'character_story', 'quest_side', 'book', 'artifact', 'quest_main', 'enemy', '_region'];
+  let html = '';
+  let hasResults = false;
+
+  typeOrder.forEach(key => {
+    const items = resultGroups[key];
+    if (!items || items.length === 0) return;
+    hasResults = true;
+    const typeData = data.types.find(t => t.key === key);
+    const label = typeData ? typeData.label : key;
+    html += '<div class="search-result-group"><h4>' + (TYPE_ICONS[key] || '') + ' ' + label + ' (' + items.length + ')</h4>';
+    const maxShow = key === 'character_friendship' ? 10 : 8;
+    items.slice(0, maxShow).forEach(item => {
+      html += '<div class="search-result-item" data-stype="' + item.typeKey + '" data-sname="' + escapeHtml(item.name) + '">'
+        + '<div class="search-result-avatar" style="background:var(--bg3);">' + item.icon + '</div>'
+        + '<div class="search-result-info">'
+        + '<div class="name">' + highlightMatch(item.name, q) + '</div>'
+        + '<div class="detail">' + highlightMatch(item.detail, q) + '</div>'
+        + '</div></div>';
+    });
+    if (items.length > maxShow) {
+      html += '<div style="padding:4px 10px 8px;font-size:11px;color:var(--text2);">…还有 ' + (items.length - maxShow) + ' 条结果</div>';
+    }
+    html += '</div>';
+  });
+
+  if (!hasResults) {
+    html = '<div class="search-no-results">未找到 "<strong>' + escapeHtml(q) + '</strong>" 相关的结果</div>';
+  }
+
+  searchResults.innerHTML = html;
+  searchResults.classList.add('open');
+
+  // Attach click handlers using dataset
+  searchResults.querySelectorAll('.search-result-item').forEach(el => {
+    el.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const typeKey = el.dataset.stype;
+      const name = el.dataset.sname;
+      jumpToItem(typeKey, name);
+    });
+  });
+}
+
+function jumpToItem(typeKey, name) {
+  closeDetail();
+  searchResults.classList.remove('open');
+  searchInput.value = '';
+
+  activateType(typeKey);
+  const typeData = data.types.find(t => t.key === typeKey);
+  if (!typeData) return;
+
+  const item = typeData.items.find(i => i.name === name);
+  if (!item) return;
+
+  setTimeout(() => {
+    if (typeKey === 'character_friendship') openCharacterDetail(item);
+    else if (typeKey === 'character_story') openCharStoryDetail(item);
+    else openGenericDetail(item, typeKey);
+  }, 200);
+}
+
+function highlightMatch(text, query) {
+  if (!text || !query) return escapeHtml(text || '');
+  const t = escapeHtml(text);
+  const q = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp('(' + q + ')', 'gi');
+  return t.replace(re, '<strong style="color:var(--accent);font-weight:600;">$1</strong>');
+}
+
+function escapeHtml(text) {
+  if (!text) return '';
+  const d = document.createElement('div');
+  d.textContent = text;
+  return d.innerHTML;
+}
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') {
+    closeDetail();
+    searchResults.classList.remove('open');
+  }
+});
+
+// Close overlay on background click (only when clicking the overlay backdrop itself)
+document.getElementById('detailOverlay').addEventListener('click', function(e) {
+  if (e.target === this) closeDetail();
+});
+</script>
+</body>
+</html>
